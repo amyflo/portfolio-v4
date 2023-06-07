@@ -82,7 +82,7 @@
     "eslint-plugin-prettier": "^4.0.0",
     "eslint-plugin-react": "^7.30.1",
     "eslint-plugin-react-hooks": "^4.6.0",
-    "eslint-plugin-testing-library": "^5.5.1",
+    "eslint-plugin-testing-library": "^5.11.0",
     "gatsby-cypress": "^2.17.0",
     "gh-pages": "^4.0.0",
     "jest": "^28.1.1",
