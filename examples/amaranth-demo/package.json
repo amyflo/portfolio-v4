@@ -46,7 +46,7 @@
     "gatsby-theme-amaranth": "*",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
-    "styled-components": "^5.3.3"
+    "styled-components": "^5.3.11"
   },
   "devDependencies": {
     "@stylelint/postcss-css-in-js": "^0.38.0",
@@ -57,7 +57,7 @@
     "@types/node": "^18.0.0",
     "@types/react": "^17.0.47",
     "@types/react-dom": "^17.0.17",
-    "@types/styled-components": "^5.1.25",
+    "@types/styled-components": "^5.1.26",
     "@types/xml2js": "^0.4.11",
     "@typescript-eslint/eslint-plugin": "^5.29.0",
     "axe-core": "^4.4.2",
